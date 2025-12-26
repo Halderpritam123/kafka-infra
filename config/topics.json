@@ -1,0 +1,9 @@
+{
+  "topics": [
+    {
+      "name": "order-created",
+      "partitions": 3,
+      "replicationFactor": 1
+    }
+  ]
+}
